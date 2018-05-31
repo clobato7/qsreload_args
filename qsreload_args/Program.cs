@@ -12,7 +12,7 @@ namespace qsreload_args
 {
     class Program
     {
-        s
+        
         static void Main(string[] args)
         {
             string app = "";
